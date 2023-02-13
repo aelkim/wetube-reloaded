@@ -1,0 +1,23 @@
+{
+  "name": "wetube-reloaded",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelkim/wetube-reloaded.git"
+  },
+  "author": "AELKIM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelkim/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/aelkim/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
